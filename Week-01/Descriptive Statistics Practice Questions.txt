@@ -1,0 +1,30 @@
+Part B — Interpret the Results (10 minutes)
+1. What is the mean score? Explain what it represents in this scenario.
+Response: The mean is 81.7, representing the average score of the class being 81.7.
+__________________________________________________________________________
+2. Compare the mean and median. Are they close together? What might that suggest about the distribution of scores?
+Response: 
+
+The mean and the median being close together means there is no one in the class that has an outlier score, every student was pretty much near the average.______________________________________________________________________
+_____________________________________________________________________________________
+3. What is the mode? What does it tell you about the scores?
+Response: The mode is the value that appears the most frequently. This means 78 was the  most repeating score.__________________________________________________________________________
+4. What is the range? Explain what the difference between the highest and lowest scores tells you. 
+Response: The range is 35, meaning the difference between the lowest score and highest score in 35 points. 
+
+__________________________________________________________________________
+
+5. Is the standard deviation small or large relative to the scores? What does it suggest about how tightly scores cluster around the mean?
+Response: The standard deviation is small means the scores remain pretty close to the mean.	
+ __________________________________________________________________________
+_____________________________________________________________________________________
+6. A team member says, “The mean tells us everything we need to know.” Give one reason this statement is incomplete.
+Response: The mean only tells you the average for the class but not the other statistics a person would need to know to properly assess diffent things about this class. 
+__________________________________________________________________________
+_____________________________________________________________________________________
+Part C — Exit Ticket (3 minutes)
+In 2–3 sentences, explain the difference between a measure of center (mean, median, mode) and a measure of spread (range, standard deviation).
+The center of measure tells us the center of the dataset but the range and standard deviation show us how far apart each data point is from each other.
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
